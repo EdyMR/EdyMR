@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Principal {
 
+//Prueba para GitHub
+
     public static void main(String[] args) {
         Almacen almacen = new Almacen();
         Scanner teclado = new Scanner(System.in);
