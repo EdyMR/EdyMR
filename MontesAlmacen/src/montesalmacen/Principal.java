@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Principal {
 
-//Prueba para GitHub
+//Prueba para el cliente Desktop
 
     public static void main(String[] args) {
         Almacen almacen = new Almacen();
